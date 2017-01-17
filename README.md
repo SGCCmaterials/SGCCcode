@@ -14,7 +14,7 @@ NOTICE:
 
 1. These demo codes only support HEVC bitstreams encoded by HM with the default GOP structure in "encoder_randomaccess_main.cfg", i.e., GOP size = 8 and I frames period is 8/16/32/64/128/256. For bitstreams encoded by other settings, these codes need to be modified according to our paper. 
 
-2. These demos are more suitable for bitstreams whose QPs are in the rang of 22 to 41. For other QPs, these codes are also usable, but leading to the decrease of control accuracy. That is bacause the authors only trained the models of QPs in the range of 22 to 41.  To use these codes on other QPs, the user should train the model first. The training method can be obtained from our paper, or by contacting the auther (yangren@buaa.edu.cn).
+2. These demos are more suitable for bitstreams whose frame-level QPs are in the range of 22 to 41. For other QPs, these codes are also usable, but leading to the decrease of control accuracy. That is bacause the authors only trained the models of QPs in the range of 22 to 41.  To use these codes on other QPs, the user should train the model first. The training method can be obtained from our paper, or by contacting the auther (yangren@buaa.edu.cn).
 
 Any questions about the code or our paper, please contact yangren@buaa.edu.cn, Maixu@buaa.edu.cn.
 
