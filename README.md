@@ -1,6 +1,6 @@
 # SGCCcode
 
-These codes are demos of our SGCC approach. The recommeded enviroment for our codes is Visaul Studio 2010 on a Windows PC.
+These codes are the demos of our SGCC approach. The recommeded enviroment for our codes is Visaul Studio 2010 on a Windows PC.
 
 "HM_16.0_SGCC_416X240.zip" is for 416X240 sequences.
 
@@ -19,3 +19,5 @@ NOTICE:
 Any questions about the code or our paper, please contact yangren@buaa.edu.cn, Maixu@buaa.edu.cn.
 
 Thank you.
+
+Best regards.
